@@ -320,7 +320,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 [![Email](https://img.shields.io/badge/Email-gnahomichael@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnahomichael@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Gnaho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-adeyemi-gnaho-7b487020b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-10B981?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio.com](https://michaelgnaho.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://michaelgnaho.vercel.app/)
 
 ---
 
