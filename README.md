@@ -6,8 +6,8 @@
 
 ### Frontend Engineer crafting high-performance, accessible web experiences
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-10B981?style=for-the-badge)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-gnaho)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-10B981?style=for-the-badge)](https://https://michaelgnaho.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-adeyemi-gnaho-7b487020b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnahomichael@gmail.com)
 
 📍 Lagos, Nigeria | 🌍 Building for Global Impact
@@ -107,8 +107,8 @@ const michael = {
 ### 💼 Smart Business Card Platform
 > **Multi-profile digital business card system with dynamic QR codes**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://your-project-link.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michaelgnaho/project-repo)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://smartbusinesscard.vercel.app/card/M.A.G)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michaelgnaho/Qr)
 
 **Impact & Metrics:**
 - 📱 Serving **20+ professionals** with personalized digital cards
