@@ -319,9 +319,8 @@ const competencies = {
 I'm always open to discussing new projects, creative ideas, or opportunities to contribute to meaningful work!
 
 [![Email](https://img.shields.io/badge/Email-gnahomichael@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnahomichael@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Gnaho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-gnaho)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@MichaelGnaho-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Gnaho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-adeyemi-gnaho-7b487020b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-10B981?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-portfolio.com](https://michaelgnaho.vercel.app/))
 
 ---
 
